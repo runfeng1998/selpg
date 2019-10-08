@@ -34,7 +34,7 @@ func main() {
 
 	handleArgs(&sa)
 	//process_input(sa)
-	fmt.Println(sa)
+	// fmt.Println(sa)
 
 	process(&sa)
 }
